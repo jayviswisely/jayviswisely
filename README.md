@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Jay! 👋
+
+<a href="https://www.linkedin.com/in/jayviswisely/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=jayviswisely&style=flat-square&color=blue" alt=""/>
+
+---
 
 <!--
 **jayviswisely/jayviswisely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
