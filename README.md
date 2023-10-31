@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio site [https://jayviswisely.github.io](https://jayviswisely.github.io)
 
-- 📫 How to reach me **jayviswisely@yahoo.com**
+- 📫 How to reach me **jayvisdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
