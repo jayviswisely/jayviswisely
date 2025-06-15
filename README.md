@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayviswisely&label=Profile%20views&color=0e75b6&style=flat" alt="jayviswisely" /> </p>
 
-- 🔭 I’m currently working on **Improving myself**
+- 🔭 I’m currently working on **Coming Soon 🤫**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **to survive in university 🥲**
 
 - 👨‍💻 My Portfolio site [https://jayviswisely.github.io](https://jayviswisely.github.io)
 
