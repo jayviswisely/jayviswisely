@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **to survive in university 🥲**
 
-- 👨‍💻 My Portfolio site [https://jayviswisely.github.io](https://jayviswisely.github.io)
+- 👨‍💻 My Portfolio site [https://jayviswisely.github.io](https://jayviswisely.github.io) (last updated on 2022, will come back new & refurbished soon!)
 
 - 📫 How to reach me **jayvisdev@gmail.com**
 
