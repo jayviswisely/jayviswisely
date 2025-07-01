@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayviswisely&label=Profile%20views&color=0e75b6&style=flat" alt="jayviswisely" /> </p>
 
-- 🔭 I’m currently working on **NCKU TA Consultation Reservation System**
+- 🔭 I’m currently working on **aniboxd**
 
-- 🌱 I’m currently learning **to survive in university 🥲**
+- 🌱 I’m currently learning **to do better**
 
 - 👨‍💻 My Portfolio site [https://jayviswisely.github.io](https://jayviswisely.github.io) (last updated on 2022, will come back new & refurbished soon!)
 
