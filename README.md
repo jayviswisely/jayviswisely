@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayviswisely&label=Profile%20views&color=0e75b6&style=flat" alt="jayviswisely" /> </p>
 
-- 🔭 I’m currently working on **aniboxd**
+- 🔭 I’m currently working on [**aniboxd**](https://github.com/jayviswisely/aniboxd)
 
 - 🌱 I’m currently learning **to do better**
 
